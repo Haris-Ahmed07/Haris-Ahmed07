@@ -37,4 +37,4 @@ You can connect with me through the following channels:
 - **GitHub**: [@Haris-Ahmed07](https://github.com/Haris-Ahmed07)
 - **Email**: [haris.14787@gmail.com](mailto:haris.14787@gmail.com)
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/haris-ahmed07/)
-- **Portfolio**: [Haris Ahmed's Portfolio](https://haris-ahmed-portfolio.netlify.app/)
+- **Portfolio**: [Haris Ahmed's Portfolio](https://haris-ahmed.netlify.app/)

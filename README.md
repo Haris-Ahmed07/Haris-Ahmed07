@@ -1,40 +1,46 @@
-# 👋 Introduction
+<h1 align="center">👋 Welcome to Haris Ahmed's GitHub Profile!</h1>
+<div align="center"> <img src="https://your-banner-url-here" /> </div>
 
-Hello, I'm Haris Ahmed, a passionate Software Developer committed to crafting innovative solutions. My expertise spans various domains, including Web Development, Desktop Applications, and Android App Development, with a primary focus on Java programming and Spring Boot. Welcome to my GitHub profile, where I showcase my projects and contributions, reflecting my journey in the world of software development.
+<h3 align="center">Passionate Software Developer | Java Enthusiast | Spring Boot Specialist</h3>
 
-## 👀 Interests
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/your-image-url-here" />
 
-I'm driven by my enthusiasm for technology and software development, with a keen interest in:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Haris-Ahmed07&label=Profile%20views&color=0e75b6&style=flat" alt="Haris-Ahmed07" /> </p>
 
-- Web Development
-- Desktop Application Development
-- Android App Development
-- Spring Boot
-- Java Programming
+- 🔭 I’m currently working on **Building Scalable Web Applications with Spring Boot**
 
-## 🌱 Currently Learning
+- 🌱 I’m currently learning **Python for Data Science, Node.js for Backend Development**
 
-I believe in the power of continuous learning to stay ahead in the ever-evolving tech landscape. Currently, I'm focusing on honing my skills in various technologies and programming languages, including:
+- 👯 I’m looking to collaborate on **Open Source Projects in Java and Spring Boot**
 
-- **Java**: My primary programming language, where I delve into advanced concepts and best practices.
-- **Spring Boot**: Enhancing my proficiency in building robust and scalable Java applications.
-- **Python**: Exploring the versatility of Python for tasks ranging from scripting to data analysis.
-- **Data Science**: Developing skills in data analysis, machine learning, and data visualization to extract valuable insights.
-- **Node.js**: Exploring server-side JavaScript with Node.js for scalable and efficient applications.
-- **JavaScript**: Strengthening my front-end development skills with this fundamental language for web development.
-- **React**: Mastering React for creating dynamic and interactive user interfaces.
-- **Docker**: Learning containerization techniques with Docker for efficient application packaging.
-- **Kubernetes**: Delving into container orchestration to streamline deployment and scaling.
+- 💬 Ask me about **Java, Spring Boot, Web Development**
 
-## 💞️ Collaboration
+- 📫 How to reach me: **[haris.14787@gmail.com](mailto:haris.14787@gmail.com)**
 
-I'm always open to collaborating on exciting projects. If you have an interesting idea or project you'd like to work on together, please don't hesitate to reach out!
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://github.com/Haris-Ahmed07" target="_blank">GitHub</a> |
+  <a href="https://www.linkedin.com/in/haris-ahmed07/" target="_blank">LinkedIn</a> |
+  <a href="https://haris-ahmed.netlify.app/" target="_blank">Portfolio</a>
+</p>
 
-## 📫 How to Reach Me
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
+</p>
 
-You can connect with me through the following channels:
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Haris-Ahmed07&show_icons=true&locale=en&layout=compact" alt="Haris-Ahmed07" /></p>
 
-- **GitHub**: [@Haris-Ahmed07](https://github.com/Haris-Ahmed07)
-- **Email**: [haris.14787@gmail.com](mailto:haris.14787@gmail.com)
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/haris-ahmed07/)
-- **Portfolio**: [Haris Ahmed's Portfolio](https://haris-ahmed.netlify.app/)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Haris-Ahmed07&show_icons=true&locale=en" alt="Haris-Ahmed07" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Haris-Ahmed07&" alt="Haris-Ahmed07" /></p>
+
+### 🔝 Top Repositories
+![Repository Name](https://github-readme-stats.vercel.app/api/pin/?username=Haris-Ahmed07&repo=repository-name)

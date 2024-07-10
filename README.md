@@ -1,11 +1,6 @@
 <h1 align="center">👋 Welcome to Haris Ahmed's GitHub Profile!</h1>
-<div align="center"> <img src="https://your-banner-url-here" /> </div>
 
 <h3 align="center">Passionate Software Developer | Java Enthusiast | Spring Boot Specialist</h3>
-
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/your-image-url-here" />
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Haris-Ahmed07&label=Profile%20views&color=0e75b6&style=flat" alt="Haris-Ahmed07" /> </p>
 
 - 🔭 I’m currently working on **Building Scalable Web Applications with Spring Boot**
 

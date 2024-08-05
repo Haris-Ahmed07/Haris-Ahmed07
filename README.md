@@ -1,15 +1,16 @@
 # 👋 Introduction
 
-Hello, I'm Haris Ahmed, a passionate Software Developer committed to crafting innovative solutions. My expertise spans various domains, including Web Development, Desktop Applications, and Android App Development, with a primary focus on Java programming and Spring Boot. Welcome to my GitHub profile, where I showcase my projects and contributions, reflecting my journey in the world of software development.
+Hello, I'm Haris Ahmed, a passionate Software Developer committed to crafting innovative solutions. My expertise spans various domains, including Web Development, Desktop Applications, and Android App Development, with a primary focus on Java programming, Spring Boot, and React.js. Welcome to my GitHub profile, where I showcase my projects and contributions, reflecting my journey in the world of software development.
 
 ## 👀 Interests
 
 I'm driven by my enthusiasm for technology and software development, with a keen interest in:
 
-- Web Development
+- Full-Stack Web Development
 - Desktop Application Development
 - Android App Development
 - Spring Boot
+- React.js
 - Java Programming
 
 ## 🌱 Currently Learning
@@ -18,11 +19,11 @@ I believe in the power of continuous learning to stay ahead in the ever-evolving
 
 - *Java*: My primary programming language, where I delve into advanced concepts and best practices.
 - *Spring Boot*: Enhancing my proficiency in building robust and scalable Java applications.
+- *React.js*: Mastering React for creating dynamic and interactive user interfaces.
 - *Python*: Exploring the versatility of Python for tasks ranging from scripting to data analysis.
 - *Data Science*: Developing skills in data analysis, machine learning, and data visualization to extract valuable insights.
 - *Node.js*: Exploring server-side JavaScript with Node.js for scalable and efficient applications.
 - *JavaScript*: Strengthening my front-end development skills with this fundamental language for web development.
-- *React*: Mastering React for creating dynamic and interactive user interfaces.
 - *Docker*: Learning containerization techniques with Docker for efficient application packaging.
 - *Kubernetes*: Delving into container orchestration to streamline deployment and scaling.
 
